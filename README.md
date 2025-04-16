@@ -1,4 +1,4 @@
-# recent-java
+# java-concurrency
 
 ## 레벨 1: 기초 다지기 - 쓰레드 & 동기화 기본 개념 이해
 ### 프로세스 (Process) vs. 쓰레드 (Thread) 개념 명확히 이해
